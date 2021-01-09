@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Cinzel', serif;
+    font-family: 'Roboto', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto&display=swap");
+}
+
+body {
+    background-color: #F5F4EC;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #404E4D;
+    font-family: 'Cinzel', serif;
+    font-size: 60px;
+    text-align: center;
+    padding: inherit;
+}
+
+a:link {
+    text-decoration: none;
+    color: #404E4D;
+}
+
+img.large {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.nav {
+    /*background-color: #404E4D;*/
+    /*background-size: auto;*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 3em;
+    width: 100%;
+}
