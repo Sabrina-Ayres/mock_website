@@ -17,6 +17,26 @@ h1 {
     padding: inherit;
 }
 
+h3 {
+    color: #404E4D;
+    font-family: 'Cinzel', serif;
+    font-size: 34px;
+    text-align: center;
+    margin-top: 5em;
+    margin-right: 60px;
+    position: relative;
+    top: 150px;
+}
+
+h2 {
+    color: #404E4D;
+    font-family: 'Cinzel', serif;
+    font-size: 28px;
+    text-align: right;
+    margin-top: 150px;
+    margin-right: 60px;
+}
+
 a:link {
     text-decoration: none;
     color: #404E4D;
@@ -25,7 +45,30 @@ a:link {
 img.large {
     max-width: 100%;
     height: auto;
-    position: absolute;
+    /*position: absolute;*/
+}
+
+img.medium {
+    width: 35%;
+    height: auto;
+    position: inherit;
+    margin-top: 1em;
+}
+
+img.small {
+    width: 150px;
+    height: auto;
+}
+
+img.align-left {
+    float: left;
+    margin-left: 75px;
+    margin-right: 100px;
+}
+
+img.align-right {
+    float: right;
+    margin-left: 10px;
 }
 
 .nav {
