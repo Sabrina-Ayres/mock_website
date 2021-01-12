@@ -56,8 +56,9 @@ img.medium {
 }
 
 img.small {
-    width: 150px;
+    width: 25%;
     height: auto;
+    margin-top: 10em;
 }
 
 img.align-left {
@@ -88,7 +89,7 @@ img.align-right {
     font-size: 18px;
     color: #404E4D;
     /*width: 100%;*/
-    padding-top: 60px;
+    padding-top: 80px;
     /*margin: 20px 80px;*/
     /*box-sizing: content-box;*/
     /*box-snap: block-end;*/
