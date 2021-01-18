@@ -22,19 +22,19 @@ h3 {
     font-family: 'Cinzel', serif;
     font-size: 34px;
     text-align: center;
-    margin-top: 5em;
-    margin-right: 60px;
-    position: relative;
-    top: 150px;
+    /*margin-top: 5em;*/
+    /*margin-right: 60px;*/
+    /*!*position: relative;*!*/
+    /*top: 150px;*/
 }
 
 h2 {
     color: #404E4D;
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
-    text-align: right;
-    margin-top: 150px;
-    margin-right: 60px;
+    /*text-align: right;*/
+    /*margin-top: 150px;*/
+    /*margin-right: 60px;*/
 }
 
 a:link {
@@ -50,8 +50,6 @@ img.large {
 img.medium {
     width: 35%;
     height: auto;
-    position: inherit;
-    margin-top: 1em;
 }
 
 img.small {
@@ -92,8 +90,9 @@ img.align-right {
 }
 
 #container {
-    margin: 100px auto;
-    margin-top: 10em;
-    width: 100%;
-    padding: 66px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    /*width: 100%;*/
+    /*padding: 66px;*/
 }
