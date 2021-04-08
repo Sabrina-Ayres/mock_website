@@ -5,12 +5,12 @@
 }
 
 body {
-    background-color: #F5F4EC;
+    background-color: #FFFFFF;
     background-repeat: no-repeat;
 }
 
 h1 {
-    color: #404E4D;
+    color: #303131;
     font-family: 'Cinzel', serif;
     font-size: 60px;
     text-align: center;
@@ -18,7 +18,7 @@ h1 {
 }
 
 h3 {
-    color: #404E4D;
+    color: #303131;
     font-family: 'Cinzel', serif;
     font-size: 34px;
     text-align: center;
@@ -29,7 +29,7 @@ h3 {
 }
 
 h2 {
-    color: #404E4D;
+    color: #303131;
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
     /*text-align: right;*/
@@ -85,7 +85,7 @@ img.align-right {
 .form {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-    color: #404E4D;
+    color: #303131;
     padding-top: 80px;
 }
 
