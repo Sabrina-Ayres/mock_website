@@ -17,6 +17,14 @@ h1 {
     padding: inherit;
 }
 
+.brand {
+    color: #303131;
+    font-family: 'Cinzel', serif;
+    font-size: 60px;
+    text-align: center;
+    padding: inherit;
+}
+
 h3 {
     color: #303131;
     font-family: 'Cinzel', serif;
